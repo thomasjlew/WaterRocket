@@ -21,7 +21,7 @@ Finally, you need an Inertial Measurement Unit to detect takeoff. We used the MP
 ![alt text](https://github.com/thomasjlew/WaterRocket/blob/master/images/mpu6050.jpeg)
 
 ## Sample water rocket with electronics mounted
-![alt text](https://github.com/thomasjlew/WaterRocket)
+![alt text](https://github.com/thomasjlew/WaterRocket/blob/master/images/water_rocket.jpg)
 
 ## Deployment
 Right now, it works with a timer set to 5 seconds. Once the water rocket takes off, it is detected which starts the timer to realease the parachute after 5 seconds.
